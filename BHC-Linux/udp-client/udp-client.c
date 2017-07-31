@@ -20,7 +20,7 @@ Description     : A simple UDP client that connects to localhost
 #include <sys/socket.h>
 
 #define TARGET_HOST "127.0.0.1"
-#define TARGET_PORT 7891
+#define TARGET_PORT 69
 
 int main()
 {
